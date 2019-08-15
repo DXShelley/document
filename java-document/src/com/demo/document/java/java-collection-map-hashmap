@@ -1,0 +1,20 @@
+java.util.HashMap
+==================
+基于jdk1.8
+----------
+
+## 知识点整理
+
+- HashMap底层实现原理
+- HashMap与HashTable区别
+- ConcurrentHashMap 和 Hashtable 的区别
+- HashMap与HashSet的联系
+- HashMap jdk1.8之后对哈希冲突的方法改进
+
+
+## 补充知识点
+- hashCode（）与equals（）的相关规定
+- ==与equals的区别
+- comparable 和 Comparator的区别
+
+
