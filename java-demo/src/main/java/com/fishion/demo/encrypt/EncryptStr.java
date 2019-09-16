@@ -1,6 +1,5 @@
 package com.fishion.demo.encrypt;
 
-import com.sunwayworld.casic.framework.utils.CasicEncryptUtils;
 import com.sunwayworld.framework.utils.EncryptUtils;
 
 /**
@@ -21,7 +20,7 @@ public class EncryptStr {
 
     }
 
-    public static void EncryptDES(String str) {
+    /*public static void EncryptDES(String str) {
         String secretStr = CasicEncryptUtils.DESEncrypt(str);
         String secretStr2 = CasicEncryptUtils.DESEncrypt(str);
         System.out.println("----------secretStr----------" + secretStr);
@@ -30,7 +29,7 @@ public class EncryptStr {
 
         String targetStr = CasicEncryptUtils.DESDecrypt(secretStr);
         System.out.println("----------targetStr----------" + targetStr);
-    }
+    }*/
 
     public static void EncryptBase64(String str) {
 

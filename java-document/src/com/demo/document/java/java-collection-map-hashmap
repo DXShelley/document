@@ -16,5 +16,3 @@ java.util.HashMap
 - hashCode（）与equals（）的相关规定
 - ==与equals的区别
 - comparable 和 Comparator的区别
-
-

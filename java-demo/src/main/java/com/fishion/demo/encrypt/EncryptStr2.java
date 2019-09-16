@@ -1,7 +1,5 @@
 package com.fishion.demo.encrypt;
 
-import com.sunwayworld.casic.framework.utils.CasicEncryptUtils;
-
 /**
  * @author : yuzq
  * @version V1.0
@@ -14,14 +12,14 @@ public class EncryptStr2 {
         String str = "123ABC@#$%^&*()";
         System.out.println("----------sourceStr----------" + str);
 
-        String secretStr = CasicEncryptUtils.DESEncrypt(str);
+        /*String secretStr = CasicEncryptUtils.DESEncrypt(str);
         String secretStr2 = CasicEncryptUtils.DESEncrypt(str);
         System.out.println("----------secretStr----------" + secretStr);
 
         System.out.println("----------secretStr1 == secretStr2 ----------" + secretStr.equals(secretStr2));
 
         String targetStr = CasicEncryptUtils.DESDecrypt(secretStr);
-        System.out.println("----------targetStr----------" + targetStr);
+        System.out.println("----------targetStr----------" + targetStr);*/
 
     }
 }

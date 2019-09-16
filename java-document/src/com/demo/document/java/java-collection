@@ -5,7 +5,13 @@ java集合框架（The Collections Framework）
 
 ## 知识点整理
 - List、Set和Map层次结构
+![Collection](https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/73403d84-d921-49f1-93a9-d8fe050f3497.png 'Collection')
+
+![Map](https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/774d756b-902a-41a3-a3fd-81ca3ef688dc.png 'Map')
+    
 - List、Set和Map的区别及使用场景
+    - List
+    Arraylist 
 - List、Set和Map底层实现原理
 - concurrent包下集合类（线程安全）
 - 线程安全各种实现方式的优缺点
@@ -13,6 +19,7 @@ java集合框架（The Collections Framework）
 - 类与接口职责划分及继承实现层次考虑
 - 不同jdk版本底层实现区别及考虑 
 - 根据场景选用集合
+This is [an example] [id] reference-style link.
 
 
 ## 补充知识点
@@ -25,3 +32,10 @@ java集合框架（The Collections Framework）
 ## 参考链接
 - [Java 8系列之重新认识HashMap](https://zhuanlan.zhihu.com/p/21673805)
 - 
+
+
+
+
+
+
+[id]: "Hello,World"
